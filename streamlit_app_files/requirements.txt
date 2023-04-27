@@ -1,0 +1,7 @@
+pandas
+plotly_express
+joblib
+pydeck
+requests
+scikit-learn
+catboost
