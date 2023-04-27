@@ -3,6 +3,9 @@
 This project aims to analyze the New York yellow taxi dataset and build a regression model to predict the possible price of a trip. The model can be used to predict the fare of a taxi trip when boarding a yellow taxi by hailing on the streets of New York, where the price is not known until the trip is completed. This project also includes a web application that allows users to enter the input variables and obtain a fare prediction from the trained model. The website can be accessd using following link:
 https://amarendrakancharla-nyc-taxi-fare-predictor-home-onnnsu.streamlit.app/
 
+![image](https://user-images.githubusercontent.com/86398695/234766718-bf77ab24-acf6-482e-98bb-61f8039beee1.png)
+
+
 ### Data 
 The data was obtained from the website https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page. The data used for this project was “Yellow taxi trip records” from this website for all months of year 2022. The data files were separate for each month of the year and in the format of parquet files for reducing the size of the file. 
 
